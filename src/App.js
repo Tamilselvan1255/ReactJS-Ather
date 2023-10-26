@@ -38,7 +38,7 @@ function App() {
         <div className="container-fluid my-2">
           <div className="alert bg-light alert-dismissible align">
             <button className="btn-close" data-bs-dismiss="alert"></button>
-            New batch will starts on <span className="badge text-bg-danger btnn">June 18th</span>
+            New batch will starts on <span className="badge text-bg-info btnn">June 18th</span>
             Limited seats only! <span><a href="#" className="alert-link linki"> Book your seats here</a></span>
           </div>
         </div>
@@ -52,7 +52,7 @@ function App() {
                 <div className="card-body">
                   <h2 id="header1" className="d-flex justify-content-center">ATHER ENERGY</h2>
                   <div className='align12'>
-                    <span className="badge text-bg-success">Go-Electric</span>
+                    <span className="badge text-bg-secondary">Go-Electric</span>
                     <span className="badge text-bg-secondary label">Ather motorcycles</span>
                   </div>
                   <p className='paraAlign'>Ather Energy is an Indian electric vehicle company, headquartered in Bangalore. It was
@@ -95,8 +95,8 @@ function App() {
                 </div>
                 <div className="card-body">
                   <div className='align1'>
-                    <span className="badge text-bg-success">Go-Electric</span>
-                    <span className="badge text-bg-danger label">Go-Electric</span>
+                    <span className="badge text-bg-secondary">Go-Electric</span>
+                    <span className="badge text-bg-secondary label">Go-Electric</span>
                   </div>
                   <p className='paraAlign'>
                     Ex-Showroom Price: ₹1.33 lakhs - ₹1.52 lakhs
@@ -120,8 +120,8 @@ function App() {
                 </div>
                 <div className="card-body">
                   <div className='align1'>
-                    <span className="badge text-bg-success">Go-Electric</span>
-                    <span className="badge text-bg-danger label">Go-Electric</span>
+                    <span className="badge text-bg-secondary">Go-Electric</span>
+                    <span className="badge text-bg-secondary label">Go-Electric</span>
                   </div>
                   <p className='paraAlign'>
                     Ex-Showroom Price: ₹1.33 lakhs - ₹1.52 lakhs
@@ -145,8 +145,8 @@ function App() {
                 </div>
                 <div className="card-body">
                   <div className='align1'>
-                    <span className="badge text-bg-success">Go-Electric</span>
-                    <span className="badge text-bg-danger label">Go-Electric</span>
+                    <span className="badge text-bg-secondary">Go-Electric</span>
+                    <span className="badge text-bg-secondary label">Go-Electric</span>
                   </div>
                   <p className='paraAlign'>
                     Ex-Showroom Price: ₹1.33 lakhs - ₹1.52 lakhs
